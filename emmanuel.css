@@ -1,0 +1,182 @@
+.body{
+
+font-family: Arial, Helvetica, sans-serif;
+}
+.product button{
+width: 80%;
+border:none;
+padding:10px;
+background-color: bisque;
+border-radius:15px;
+font-size: large;
+}
+.hero button{
+    cursor: pointer;
+    border:none;
+    color:black;
+    background-color: rgb(255, 212, 196);
+    border-radius: 15px;
+    width:30%;
+    font-size: large;
+}
+.products{
+    display::contents;
+    justify-content: center;
+    gap:50px;
+    align-text: center;
+}
+.footer{
+    text-align: center;
+    padding: 10px; 
+    width:100%;
+    background-color: rgb(57, 107, 107); 
+    float: inline-end;
+}
+.maize,.rice,.wheat,.beans,.sorghum{
+width:500px;
+height:auto;
+margin-top: 50px;
+margin-left: 10%;
+border: 1px solid yellow;
+}
+.h1{
+text-align:center;
+width:100%;
+background-color:aquamarine;
+padding: 50px;
+font-size: xx-large;
+background-image:url(grain.png);
+color: white;
+}
+.fieldset{
+margin-right:50px;
+margin-left:50px;
+border-radius:10px;
+background-color: azure;
+
+}
+.product{
+text-align:center;
+font-size: large;
+}
+.set{
+background-color:beige ;
+margin-left: 200px;
+margin-right: 200px;
+text-align: center;
+border-radius: 15px;
+gap:40%;;
+}
+.input{
+background-color: azure;
+border-radius: 5px;
+color: purple;
+text-align: center;
+font-size: large;
+border:none;
+
+}
+.placeholder{
+    color: purple;
+    font-size: small;
+}
+.button{
+    border-radius: 5px;
+    color:white;
+    background-color:coral;
+}
+.content{
+    margin-right:50px;
+    margin-left:50px;
+    border-radius:10px;
+    background-color: azure;
+    text-align: center;
+  
+}
+.inset{
+    margin-left: 200px;
+margin-right: 400px;
+background-color: darkgrey;
+border-radius: 10px;
+
+}
+
+
+.homeset{
+    margin-right:50px;
+    margin-left:50px;
+    border-radius:10px;
+    background-color: azure
+}
+
+.hoset{
+    margin-right: 100px;
+    background-color:beige ;
+    margin-left: 100px;
+    border-radius: 15px;
+
+}   
+.nav{
+    gap:20px;
+    width:100%;
+    padding: 50px;
+    background-color: rgb(57, 107, 107);
+    text-align:center;
+    color: white;
+    border-color: 
+    font-size:large;
+    text-decoration: none;
+}
+
+.sidebar{
+    width:50%;
+    float: left;
+    background-color: ghostwhite;
+}
+*{
+    box-sizing:border-box;
+    margin:;
+    padding: 
+}
+.logo{
+    width:100px;
+    height:auto;
+    margin-top: 
+    margin-left: 
+      
+}
+,hero{
+
+    text-align: center;
+}
+.input{
+    display:flex;
+    justify-content: center;
+    gap:50px;
+    text-align: center;
+}
+.table{
+    table-layout: auto;
+    background-color: azure;
+    width: 100%;
+    row-gap: 5px;
+height: 300px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+
+}
+.h4{
+    text-align: center;
+    font-size: x-large;
+   
+}
+.th{
+    background-color: azure;
+    color: tomato;
+}
+.hero{
+    text-align: center;
+}
+.h2{
+    text-align: center;
+}
